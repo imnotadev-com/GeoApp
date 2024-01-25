@@ -1,0 +1,5 @@
+OS|UAS|CPU|Platform| 
+Windows 10 - Chrome|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36|Win64; x64|Win64|
+Windows 10 - Edge|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42|Win64; x64|Win64|
+Android - Galaxy S22|Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.126 Mobile Safari/537.36|QP1A.190711.020|Android|
+iPhone14 - Safari|Mozilla/5.0 (iPhone14;6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) Version/10.0 Mobile/19E241 Safari/602.1|CPU iPhone OS 15_4|Mac OS|

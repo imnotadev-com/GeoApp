@@ -1,0 +1,4 @@
+country,tz,la,hp,port,lng,lat
+UK,Europe/London,en,www.google.co.uk,8900,51.5287718,-0.2416802
+Spain,Europe/Madrid,es,www.google.es,8902,40.416033,-3.7038515
+Portugal,Europe/Lisbon,pt,www.google.pt,8904,50.4150136,-2.7152338
